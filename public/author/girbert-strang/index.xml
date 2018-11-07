@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Girbert Strang on HY&#39;s BLog</title>
+    <link>https://cjchengtw.gitlab.io/author/girbert-strang/</link>
+    <description>Recent content in Girbert Strang on HY&#39;s BLog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 07 Nov 2018 20:28:08 +0800</lastBuildDate>
+    
+	<atom:link href="https://cjchengtw.gitlab.io/author/girbert-strang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gilbert Strang About Life</title>
+      <link>https://cjchengtw.gitlab.io/quote/gilbert-strang-about-life/</link>
+      <pubDate>Wed, 07 Nov 2018 20:28:08 +0800</pubDate>
+      
+      <guid>https://cjchengtw.gitlab.io/quote/gilbert-strang-about-life/</guid>
+      <description>We only live so long, we just skip that proof.</description>
+    </item>
+    
+  </channel>
+</rss>

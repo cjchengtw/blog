@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://cjchengtw.gitlab.io/en/author/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://cjchengtw.gitlab.io/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cjchengtw.gitlab.io/en/author/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cjchengtw.gitlab.io/en/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://cjchengtw.gitlab.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cjchengtw.gitlab.io/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cjchengtw.gitlab.io/en/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://cjchengtw.gitlab.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cjchengtw.gitlab.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cjchengtw.gitlab.io/en/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://cjchengtw.gitlab.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cjchengtw.gitlab.io/en/tags/"
+                />
+  </url>
+  
+</urlset>

@@ -1,0 +1,44 @@
+[
+  {
+    "iconClass": "fa-folder",
+    "objectID": "https://cjchengtw.gitlab.io/categories/life",
+    "title": "Life",
+    "type": "category",
+    "url": "https://cjchengtw.gitlab.io/categories/life"
+  },
+  {
+    "iconClass": "fa-folder",
+    "objectID": "https://cjchengtw.gitlab.io/categories/%E9%9A%A8%E7%AD%86",
+    "title": "隨筆",
+    "type": "category",
+    "url": "https://cjchengtw.gitlab.io/categories/%E9%9A%A8%E7%AD%86"
+  },
+  {
+    "iconClass": "fa-user",
+    "objectID": "https://cjchengtw.gitlab.io/author/girbert-strang",
+    "title": "Girbert strang",
+    "type": "author",
+    "url": "https://cjchengtw.gitlab.io/author/girbert-strang"
+  },
+  {
+    "iconClass": "fa-user",
+    "objectID": "https://cjchengtw.gitlab.io/author/hy-cheng",
+    "title": "Hy cheng",
+    "type": "author",
+    "url": "https://cjchengtw.gitlab.io/author/hy-cheng"
+  },
+  {
+    "iconClass": "fa-tag",
+    "objectID": "https://cjchengtw.gitlab.io/tags/gitlab",
+    "title": "Gitlab",
+    "type": "tag",
+    "url": "https://cjchengtw.gitlab.io/tags/gitlab"
+  },
+  {
+    "iconClass": "fa-tag",
+    "objectID": "https://cjchengtw.gitlab.io/tags/hugo",
+    "title": "Hugo",
+    "type": "tag",
+    "url": "https://cjchengtw.gitlab.io/tags/hugo"
+  }
+]

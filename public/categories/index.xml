@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on HY&#39;s BLog</title>
+    <link>https://cjchengtw.gitlab.io/categories/</link>
+    <description>Recent content in Categories on HY&#39;s BLog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://cjchengtw.gitlab.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Life</title>
+      <link>https://cjchengtw.gitlab.io/categories/life/</link>
+      <pubDate>Wed, 07 Nov 2018 20:28:08 +0800</pubDate>
+      
+      <guid>https://cjchengtw.gitlab.io/categories/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>隨筆</title>
+      <link>https://cjchengtw.gitlab.io/categories/%E9%9A%A8%E7%AD%86/</link>
+      <pubDate>Wed, 07 Nov 2018 20:31:53 +0800</pubDate>
+      
+      <guid>https://cjchengtw.gitlab.io/categories/%E9%9A%A8%E7%AD%86/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

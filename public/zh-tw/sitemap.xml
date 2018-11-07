@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://cjchengtw.gitlab.io/article/hugo-new-site/</loc>
+    <lastmod>2018-11-07T20:31:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cjchengtw.gitlab.io/quote/gilbert-strang-about-life/</loc>
+    <lastmod>2018-11-07T20:28:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cjchengtw.gitlab.io/page/about/</loc>
+    <lastmod>2018-11-07T17:51:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cjchengtw.gitlab.io/article/</loc>
+    <lastmod>2018-11-07T20:31:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cjchengtw.gitlab.io/code/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cjchengtw.gitlab.io/gallery/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cjchengtw.gitlab.io/guote/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cjchengtw.gitlab.io/author/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cjchengtw.gitlab.io/en/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://cjchengtw.gitlab.io/author/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cjchengtw.gitlab.io/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cjchengtw.gitlab.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://cjchengtw.gitlab.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cjchengtw.gitlab.io/author/girbert-strang/</loc>
+    <lastmod>2018-11-07T20:28:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cjchengtw.gitlab.io/tags/gitlab/</loc>
+    <lastmod>2018-11-07T20:31:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cjchengtw.gitlab.io/</loc>
+    <lastmod>2018-11-07T20:31:53+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cjchengtw.gitlab.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://cjchengtw.gitlab.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cjchengtw.gitlab.io/tags/hugo/</loc>
+    <lastmod>2018-11-07T20:31:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cjchengtw.gitlab.io/author/hy-cheng/</loc>
+    <lastmod>2018-11-07T20:31:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cjchengtw.gitlab.io/categories/life/</loc>
+    <lastmod>2018-11-07T20:28:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cjchengtw.gitlab.io/page/</loc>
+    <lastmod>2018-11-07T17:51:20+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cjchengtw.gitlab.io/quote/</loc>
+    <lastmod>2018-11-07T20:28:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cjchengtw.gitlab.io/tags/</loc>
+    <lastmod>2018-11-07T20:31:53+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cjchengtw.gitlab.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://cjchengtw.gitlab.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cjchengtw.gitlab.io/categories/%E9%9A%A8%E7%AD%86/</loc>
+    <lastmod>2018-11-07T20:31:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
