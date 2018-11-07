@@ -1,4 +1,5 @@
 
+
 image: monachus/hug:
 
 variables:        
@@ -12,6 +13,3 @@ pages:
     - public
   only:
   - master
-
-
-            i
