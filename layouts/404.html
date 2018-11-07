@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+<div class="content">
+    <div class="article-wrapper u-cf single">
+        <a class="bubble" href="{{ "/" | relLangURL}}">
+            <i class="fa fa-fw fa-exclamation-triangle"></i>
+        </a>
+
+        <article class="error404 article">
+            <div class="content">
+                <h3>你輸入的網址可能不正確</h3>
+                <p></p>
+    
+		<h2><a href="{{ "/" | relLangURL}}">點我回首頁</a></h2>
+            </div>
+        </article>
+    </div>
+</div>
+{{ end }}
